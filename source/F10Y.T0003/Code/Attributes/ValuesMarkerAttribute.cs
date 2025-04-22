@@ -3,7 +3,7 @@
 using F10Y.T0000;
 
 
-namespace F10Y.T0002
+namespace F10Y.T0003
 {
     /// <summary>
     /// Attribute indicating an interface contains value instances. (i.e. properties on an interface).
